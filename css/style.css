@@ -1,0 +1,39 @@
+body{
+	text-align: center;
+}
+
+#url{
+	padding: 4px 6px;
+}
+
+#contenidoFichero{
+	text-align: left;
+	margin-top: 10px;
+	display: inline-block;
+	border: 1px solid;
+	padding: 15px;
+	white-space: pre;
+	overflow: scroll;
+	height: 250px;
+	width: 470px;
+}
+
+ul{
+	display: inline-block;
+	border: 1px solid;
+	height: 110px;
+	width: 110px;
+	padding: 10px;
+	padding-left: 40px;
+	text-align: left;
+}
+
+#estadoServidor{
+	border: 1px solid;
+	padding: 5px;
+}
+
+#mostrar{
+	margin-top: 20px;
+	padding: 5px;
+}
